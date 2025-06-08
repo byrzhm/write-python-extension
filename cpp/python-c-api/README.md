@@ -1,4 +1,4 @@
-# [Python/C API](https://docs.python.org/3.12/contents.html)
+# [Python/C API](https://docs.python.org/3.12/c-api/index.html)
 
 
 ```sh
