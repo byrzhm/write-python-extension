@@ -1,0 +1,6 @@
+[submodule "cpp/pybind/pybind-example"]
+	path = cpp/pybind/pybind-example
+	url = git@github.com:byrzhm/pybind-example.git
+[submodule "cpp/cython/cython-demo"]
+	path = cpp/cython/cython-demo
+	url = git@github.com:byrzhm/cython-demo.git
