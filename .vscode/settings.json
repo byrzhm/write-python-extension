@@ -1,0 +1,5 @@
+{
+    "clangd.fallbackFlags": [
+        "-I${userHome}/.local/share/uv/python/cpython-3.12.10-linux-x86_64-gnu/include/python3.12", // Python headers
+    ]
+}
